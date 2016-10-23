@@ -1,0 +1,9 @@
+### IntelliJ IDEA
+.idea/
+*.iml
+
+### NPM
+node_modules/
+
+### Build files
+bundle.js
